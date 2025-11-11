@@ -2,7 +2,6 @@
 <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/2a21bc42-95c0-458b-848a-42666de64ae3" />
 
 
-<br>
 Aplicação fullstack de gerenciamento de tarefas no estilo Kanban, desenvolvida com React no frontend e Go no backend. O projeto implementa três colunas fixas (A Fazer, Em Progresso e Concluídas), integra drag and drop, modal de edição e persistência opcional em arquivo JSON.
 
 ## Funcionalidades
